@@ -1,9 +1,9 @@
-# HeroesNeverDie
+# Heroes_Never_Die
 FTPS, Nginx, Ubuntu, Retired Laptop
 
 ## Aims to:
 
-  1. Revive my retired, runable, was-a-hero laptop
+  1. Revive my retired, runable, was-a-hero laptop.
   2. Set up a private file server, a so-called cloud storage, for sharing files from various platforms
 
 ## Tasks:
