@@ -1,10 +1,10 @@
 # Heroes_Never_Die
-FTPS, Nginx, Ubuntu, Retired Laptop
+NFS, FTPS, Nginx, Ubuntu, Reuse retired Laptop
 
 ## Aims to:
 
-  1. Revive my retired, runable, was-a-hero laptop.
-  2. Set up a private file server, a so-called cloud storage, for sharing files from various platforms
+  1. Revive my retired, runable, was-a-hero, six-year-old laptop.
+  2. Set up a private file sharing server, a so-called cloud storage or network file system, for sharing files from various platforms
 
 ## Tasks:
 
