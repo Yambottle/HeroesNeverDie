@@ -10,7 +10,8 @@ NFS, FTPS, HTTP, vsftpd, Nginx, Ubuntu, Reuse retired Laptop
 
   1. Farewell Windows, Hello Linux
   2. Set up a FTPS+HTTP Server, and try to write a install&config shell script
-  3. Coding client app: Android, web, iOS
+  3. Backend: PHP or Python
+  4. Frontend: Android, web, iOS
 
 ## Maybe in the future:
 
