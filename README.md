@@ -9,9 +9,8 @@ NFS, FTPS, HTTP, vsftpd, Nginx, Ubuntu, Reuse retired Laptop
 ## Tasks:
 
   1. Farewell Windows, Hello Linux
-  2. Set up a FTPS+HTTP Server, test, and try to write a install&config shell script
+  2. Set up a FTPS+HTTP Server, and try to write a install&config shell script
   3. Coding client app: Android, web, iOS
-  4. Client Test
 
 ## Maybe in the future:
 
