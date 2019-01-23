@@ -1,5 +1,5 @@
 # Heroes_Never_Die
-NFS, FTPS, Nginx, Ubuntu, Reuse retired Laptop
+NFS, FTPS, HTTP, vsftpd, Nginx, Ubuntu, Reuse retired Laptop
 
 ## Aims to:
 
