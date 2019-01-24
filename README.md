@@ -1,5 +1,5 @@
 # Heroes_Never_Die
-NFS, FTPS, HTTP, vsftpd, Nginx, Ubuntu, Reuse retired Laptop
+A network file sharing system based on: FTPS, HTTP, vsftpd, Nginx, Ubuntu, Reuse retired Laptop
 
 ## Why:
 
