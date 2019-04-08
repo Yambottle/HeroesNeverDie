@@ -1,4 +1,4 @@
-# Heroes_Never_Die
+# Heroes_Never_Die_Plus
 
 ## Update: set up as a workstation based on SSH
 
